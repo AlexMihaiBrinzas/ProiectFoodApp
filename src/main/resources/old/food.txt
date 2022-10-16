@@ -1,0 +1,7 @@
+Bread|market|1|2|Oradea|A~A
+Coffe|market|1|2|Cluj|B~B
+Milk|market|1|2|Oradea|A~A
+Beans|market|1|2|Cluj|B~B
+Chickenmeat|market|1|2|Oradea|C~C
+Cowmeat|market|1|2|Oradea|C~C
+Egs|market|2|4|Oradea|C~C
